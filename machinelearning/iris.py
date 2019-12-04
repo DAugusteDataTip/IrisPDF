@@ -1,4 +1,4 @@
-'''Machine Learning Classification script for PDFs'''
+"""Machine Learning Classification script for PDFs"""
 
 import io
 import os
