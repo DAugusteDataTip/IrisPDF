@@ -1,0 +1,5 @@
+et-xmlfile==1.0.1
+jdcal==1.4.1
+openpyxl==3.0.2
+pdfminer==20191125
+progress==1.5
